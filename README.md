@@ -69,9 +69,3 @@ Samba · Docker · Wireshark · Oracle VirtualBox
 ## 📁 Repository Contents
 - `windows-lab/` – Windows Server report (PDF) and screenshots
 - `linux-lab/` – Linux report (PDF) and screenshots
-
-## 📸 Screenshots
-![Active Directory users and groups](windows-lab/screenshots/active-directory.png)
-![Group Policy wallpapers](windows-lab/screenshots/gpo-wallpapers.png)
-![Samba share accessed from Windows](linux-lab/screenshots/samba-share.png)
-![Docker container running](linux-lab/screenshots/docker.png)
