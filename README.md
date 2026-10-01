@@ -1,5 +1,3 @@
-# operationg-sustems-server-labs
-Windows Server 2022 and Ubuntu Linux virtual network labs: Active Directory, Group Policy, DHCP/DNS, IIS, Apache, firewalls, SSH, Samba, Docker and Wireshark traffic analysis. Year 1 Operating Systems, CCT College Dublin.
 # 🖥️ Operating Systems – Windows & Linux Server Labs
 
 Two proof-of-concept virtual network projects built for the Operating Systems
@@ -67,5 +65,7 @@ PowerShell · Ubuntu Linux · Apache · Netplan · UFW · iptables · SSH · PuT
 Samba · Docker · Wireshark · Oracle VirtualBox
 
 ## 📁 Repository Contents
-- `windows-lab/` – Windows Server report (PDF) and screenshots
-- `linux-lab/` – Linux report (PDF) and screenshots
+- [`windows-server-lab-report.pdf`](windows-server-lab-report.pdf) – Windows Server report with screenshots of every step (completed 20 April 2024)
+- [`linux-server-lab-report.pdf`](linux-server-lab-report.pdf) – Linux report with screenshots of every step (submitted 12 May 2024)
+
+The reports were uploaded to GitHub in 2026. The commits that add them are dated to when each lab was completed.
